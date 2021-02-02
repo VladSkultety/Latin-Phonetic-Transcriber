@@ -1,4 +1,4 @@
-# Latin-Phonetic-Transcriber
+# Classical Latin-Phonetic-Transcriber
 A simple code phonetically transcribing Classical Latin into a reader-friendly text based on Classical Latin pronunciation rules.
 
 It does this:
